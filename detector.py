@@ -1,3 +1,5 @@
+'''Created this project under the guidance of instructors from the Inspirit AI training course'''
+
 #@title Import Data { display-mode: "form" }
 import math
 import os
